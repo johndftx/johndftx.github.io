@@ -1,2 +1,2 @@
 # johndftx.github.io
-test
+[test](test.com)
